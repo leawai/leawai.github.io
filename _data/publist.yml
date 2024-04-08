@@ -1,0 +1,296 @@
+
+- title: "Emergence and maintenance of excitability: kinetics over structure"
+  image: Emergence.jpg
+  description: Alongside studies that extend traditional focus on control-based regulation of structural parameters (channel densities), there is a budding interest in self-organization of kinetic parameters. In this picture, ionic channels are continually forced by activity in-and-out of a pool of states not available for the mechanism of excitability. The process, acting on expressed structure, provides a bed for generation of a spectrum of excitability modes.
+  authors: Marom S.
+  link:
+    url: https://www.scopus.com/record/display.uri?eid=2-s2.0-84979084036&origin=inward&txGid=277a6d426894e83ea4feeff0126764b4
+    display:  Current Opinion in Neurobiology (2016)
+  highlight: 1
+  multiple: 1
+
+
+
+- title: "Interaction between duration of activity and time course of recovery from slow inactivation in mammalian brain Na+ channels"
+  image: Interaction.jpg
+  description: The relationships between activity and availability for activation of voltage gated Na channels were examined using the Xenopus expression system. The main point of this work is that the time constant of recovery from the unavailable (inactivated) pool is related to the duration of previous activation by a power law. These relationships extend from tens of milliseconds to several minutes and are intrinsic to the channel protein.
+  authors: Toib A. , Lyakhov V. , Marom S.
+  link:
+    url: https://www.jneurosci.org/content/jneuro/18/5/1893.full.pdf
+    display:  Journal of Neuroscience (1998)
+  highlight: 1
+  multiple: 1
+  
+
+- title: "State-dependent inactivation of the Kv3 potassium channel"
+  image: dummy.png
+  description: Multiple states and scallling of rates
+  authors: Marom S. , Dagan D.
+  link:
+    url: https://www.scopus.com/record/display.uri?eid=2-s2.0-0028136017&origin=inward&txGid=5e526d4cbbf88a1cd14fdeadc99a02c5
+    display:  Biophysical Journal (1994)
+  highlight: 0
+  multiple: 1
+
+
+- title: "Modeling state-dependent inactivation of membrane currents"
+  image: dummy.png
+  description: Multiple states and scallling of rates 
+  authors: Marom S. , Abbott L.F.
+  link:
+    url: https://www.scopus.com/record/display.uri?eid=2-s2.0-0028101232&origin=inward&txGid=de40cb1b00b2e258bb6b506984b5a15f 
+    display:  Biophysical Journal (1994)
+  highlight: 0
+  multiple: 1
+
+ 
+- title: "Self-organized criticality in single-neuron excitability"
+  image: self-organized.jpg
+  description:  Here, we suggest that neuronal response fluctuations reflect a process that positions the neuron near a transition point that separates excitable and unexcitable phases. This view is supported by the dynamical properties of the system as observed in experiments on isolated cultured cortical neurons, and by a theoretical mapping between the constructs of self-organized criticality and membrane excitability.
+  authors: Gal A. , Marom S.
+  link:
+    url: https://arxiv.org/pdf/1210.7414.pdf
+    display: Physical Review E - Statistical, Nonlinear, and Soft Matter Physics (2013)
+  highlight: 1
+  critical: 1
+ 
+- title: "Entrainment of the intrinsic dynamics of single isolated neurons by natural-like input"
+  image: entrainment.jpg
+  description: Neuronal dynamics is intrinsically unstable, producing activity fluctuations that are essentially scale free. Here we experimentally study single cortical neurons, and show that while these scale-free fluctuations are independent of temporal input statistics, they can be entrained by input variation. Response entrainment was found to be maximal when the input itself possesses natural-like, scale-free statistics.
+  authors: Gal A. , Marom S.
+  link:
+    url: https://www.scopus.com/record/display.uri?eid=2-s2.0-84877104023&origin=inward&txGid=33b28256c471a1e652f8e506ea921ba5
+    display: Journal of Neuroscience (2013)
+  highlight: 1
+  critical: 1
+ 
+
+- title: "Dynamics of Excitability over Extended Timescales in Cultured Cortical Neurons"
+  image: dummy.png
+  description: Critical fluctuations
+  authors: Gal A. , Eytan D. , Wallach A. , Sandler M. , Schiller J. , Marom S.
+  link:
+    url: https://www.scopus.com/record/display.uri?eid=2-s2.0-78649735564&origin=inward&txGid=3e9c222e3b2718e1106a3bdfdfda9830
+    display:  Journal of Neuroscience (2010)
+  highlight: 0
+  critical: 1
+  
+ 
+- title: "Dynamic clamp constructed phase diagram for the Hodgkin and Huxley model of excitability"
+  image: dummy.png
+  description: Parametrization 
+  authors: Ori H. , Hazan H. , Marder E. , Marom S.
+  link:
+    url: https://www.pnas.org/doi/full/10.1073/pnas.1916514117
+    display: PNAS (2020)
+  highlight: 0
+  Parametrization: 1
+
+- title: "Cellular function given parametric variation in the Hodgkin and Huxley model of excitability"
+  image: CellularFunction.jpg
+  description: A theoretical study, showing that although the full Hodgkin–Huxley model is very sensitive to fluctuations that independently occur in its many parameters, the outcome is in fact determined by a simple combinations of these parameters along two physiological dimensions - structural and kinetic (denoted S and K, respectively).). The impacts of parametric fluctuations on the dynamics of the system — seemingly complex in the high-dimensional representation of the Hodgkin–Huxley model — are tractable when examined within the S–K plane.
+  authors: Ori H. , Marder E. , Marom S.
+  link:
+    url: https://www.pnas.org/doi/full/10.1073/pnas.1808552115
+    display:   PNAS (2018)
+  highlight: 1
+  Parametrization: 1
+ 
+ 
+ 
+  
+
+- title: "Sodium channel slow inactivation normalizes firing in axons with uneven conductance distributions"
+  image: sodiumchannel.jpg
+  description: Here we model spike propagation in axons with uneven distributions of Na+ and K+ channels. Including slow inactivation of the Na+ channel enhances the reliability of spike propagation and can compensate for uneven channel distributions.
+  authors: Zang Y. , Marder E. , Marom S.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0960982223003317?via%3Dihub
+    display: Current Biology (2023)
+  highlight: 1
+  axonal: 1
+ 
+  
+
+- title: "A biophysical perspective on the resilience of neuronal excitability across timescales"
+  image: biopysicalperpective.jpg
+  description: Neuronal membrane excitability must be resilient to perturbations that can take place over timescales from milliseconds to months (or even years in long-lived animals). This paper ofers a self-regulating ‘automatic’ mechanisms that contribute to neuronal resilience by virtue of the kinetic properties of ion channels themselves
+  authors: Zang Y. , Marder E. , Marom S. 
+  link:
+    url: https://www.nature.com/articles/s41583-023-00730-9
+    display:  Nature Reviews Neuroscience (2023)
+  highlight: 1
+  resilience: 1
+
+
+- title: "Development, learning and memory in large random networks of cortical neurons: lessons beyond anatomy"
+  image: dummy.JPG
+  description: Learning
+  authors: Shahaf G. , Marom S. 
+  link:
+    url: https://www.cambridge.org/core/journals/quarterly-reviews-of-biophysics/article/abs/development-learning-and-memory-in-large-random-networks-of-cortical-neurons-lessons-beyond-anatomy/910AE0F1F27FD2695764AD93D55E752B
+    display: Quarterly Reviews of Biophysics (2002)
+  highlight: 0
+  learning: 1  
+
+- title: "Learning in Networks of Cortical Neurons"
+  image: learning.jpg
+  description: The results presented here demonstrate selective learning in a network of real cortical neurons, without the involvement of a neural rewarding entity. The connectivity can be modulated by external focal stimulation in an activity-dependent manner. Most importantly, the networks explore the space of possible responses and stabilize at configurations that remove the stimuli.
+  authors: Shahaf G. , Marom S. 
+  link:
+    url: https://www.jneurosci.org/content/21/22/8782
+    display: Journal of Neuroscience (2001)
+  highlight: 1
+  learning: 1
+
+
+
+- title: "Selective Adaptation in Networks of Cortical Neurons"
+  image: selectiveadaptation.jpg
+  description: Using multisite electrical recordings from networks of cortical neurons developing ex vivo, we show that neurons adapt selectively to different stimuli invading the network. We focus on selective adaptation to frequent and rare stimuli; networks were stimulated at two sites with two different stimulus frequencies.
+  authors: Eytan D. , Brenner N. , Marom S. 
+  link:
+    url: https://www.researchgate.net/publication/5443914_Selective_Adaptation_in_Networks_of_Cortical_Neurons
+    display: Journal of Neuroscience (2003)
+  highlight: 1
+  adaptation: 1
+
+- title: "Order-Based Representation in Random Networks of Cortical Neurons"
+  image: orderbased.png
+  description: We show that in spontaneously developing large-scale random networks of cortical neurons in vitro the order in which neurons are recruited following each stimulus is a naturally emerging representation primitive that is invariant to significant temporal changes in spike times. With a relatively small number of randomly sampled neurons, the information about stimulus position is fully retrievable from the recruitment order. 
+  authors: Shahaf G. , Eytan D. , Gal A. , Kermany E. , Lyakhov V. , Zrenner C. , Marom S. 
+  link:
+    url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000228 
+    display: PLOS Computational Biology (2008)
+  highlight: 1
+  representation: 1
+
+- title: "Dynamics and Effective Topology Underlying Synchronization in Networks of Cortical Neurons"
+  image: DynamicsandEff.jpg
+  description: We characterize the process underlying the timescale of synchronization, its relationship to the effective topology of connectivity within an assembly, and its impact on propagation of activity within and between assemblies. We show that the basic mode of assembly activation, “network spike,” is a threshold-governed phenomenon, following the logistics of neuronal recruitment in an effectively scale-free connected network. 
+  authors: Eytan D. , Marom S. 
+  link:
+    url: https://www.jneurosci.org/content/26/33/8465 
+    display: Journal of Neuroscience (2006) 
+  highlight: 1
+  dynamics: 1
+
+- title: "Dopamine-Induced Dispersion of Correlations Between Action Potentials in Networks of Cortical Neurons"
+  image: dummy.png
+  description: neuromodulation 
+  authors: Eytan D. , Minerbi Amir, Ziv N. , Marom S. 
+  link:
+    url: https://journals.physiology.org/doi/full/10.1152/jn.00202.2004
+    display: Journal of Neurophysiology (2004)
+  highlight: 0
+  neuromodulation: 1
+
+- title: "On the precarious path of reverse neuro-engineering"
+  image: Ontheprecarious.jpg
+  description: In this perspective we demonstrate that application of reverse engineering to the study of the design principle of a functional neuro-system with a known mechanism, may result in a perfectly valid but wrong induction of the system’s design principle. If in the very simple setup we bring here it is difficult to induce a design principle, what are our chances of exposing biological design principles when more realistic conditions are examined?
+  authors: Marom S. , Meir R. , Braun E. , Gal A. , Kermany E. , Eytan D. 
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/neuro.10.005.2009/full
+    display: Frontiers in Computational Neuroscience (2009)
+  highlight: 1
+  precarious: 1
+
+- title: "Neural timescales or lack thereof"
+  image: timescales.jpg
+  description: This article aims at making readers, experimentalists and theorists, more aware of the abstractions made by an observer when measuring and reporting behavioral and neural timescales. These abstractions stow away the fact that, above lower boundaries that reflect fairly well understood physical constraints, observed and reported timescales are often not intrinsic to the biological system; rather, in most cases they reflect conditions that are imposed by the observer through the measuring procedure.
+  authors: Marom S.
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0301008209001543
+    display: Progress in Neurobiology (2010)
+  highlight: 1
+  timescales: 1
+
+    
+- title: "Science, Psychoanalysis and the Brain: Space for Dialogue"
+  image: books.png
+  description: This monograph is an invitation to a space for dialogue where reflections on neurophysiology are expressed with and guided by depth-psychology in mind; a space where neurophysiology resumes its traditional humbled stance towards matters of the psyche, and where the intellectual autonomy of depth psychology is acknowledged. The author leads the reader through the terrain of methodological errors that have plagued recent reductive approaches, paving the way for a dialogue that is based on an alternative, relational approach. 
+  authors: Marom S. 
+  link:
+    url: https://www.icloud.com/iclouddrive/052SOQwMZBQqmw1hN_Jq4zN4w#Marom_(CUP_2015)
+    display: Cambridge University Press (2015)
+  highlight: 1
+  psychology_book: 1
+  news1: <a href="https://www.icloud.com/iclouddrive/0e52TBNPCRcIYty01XOXGX34A#Marom_(Resling_2018)"> Hebrew Trans.  </a>  <a href="http://www.astrolabio-ubaldini.com/libro/1522">  Italian Trans. </a>
+     
+- title: "Relational Dynamics in Perception: Impacts on trial-to-trial variation"
+  image: relationaldynamics.jpg
+  description: We show that trial-to-trial variability in sensory detection of a weak visual stimulus is dramatically diminished when rather than presenting a fixed stimulus contrast, fluctuations in a subject’s judgment are matched by fluctuations in stimulus contrast. This attenuation of fluctuations does not involve a change in the subject’s psychometric function. 
+  authors: Marom S. , Wallach A.  
+  link:
+    url: https://arxiv.org/pdf/1102.1384.pdf
+    display: Frontiers in Computational Neuroscience (2011)
+  highlight: 1
+  perception: 1
+  
+    
+- title: "Dialogue Across Chasm: Are Psychology and Neurophysiology Incompatible?"
+  image: 
+  description: 
+  authors: Marom S. 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S089662732030533X?via%3Dihub
+    display: Neuron (2020)
+  highlight: 0
+  psychology_viewpoint: 1
+
+- title: "Lost Knowledge"
+  image: lostknowledge.png
+  description: Past commitment to a common language within disciplines, came at the price of creating knowledge silos. Today, ‘interdisciplinarity’ — arguably a common language — is pushed down into undergraduate education so that we are encouraging science students at their earliest stages of education to be conversant across the myriad fields that are now important for many research projects. But at what cost?
+  authors: Marom S. 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0960982222000434?via%3Dihub
+    display: Currect Biology (2022)
+  highlight: 1
+  general_readership: 1
+
+
+- title: "Universality, complexity and the praxis of biology: Two case studies"
+  image: dummy.png
+  description: 
+  authors: Braun E., Marom S. 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1369848615000606
+    display: Studies in History and Philosophy of Science -Part C (2015)
+  highlight: 0
+  general_readership: 1 
+
+  
+- title: "How are nerve cells and artificial inteligence similar?"
+  image: dummy.png
+  description: 
+  authors: Marom S. 
+  link:
+    url: https://kids.frontiersin.org/articles/10.3389/frym.2022.767989
+    display: Frontiers for Young Minds (2022)
+  highlight: 0
+  general_readership: 1  
+
+- title: "הפיתוי הנצחי"
+  image: dummy.png
+  description: 
+  authors: Marom S. 
+  link:
+    url: https://archive.md/7GE5H#selection-1917.0-1917.5
+    display:  Odysseus magazine (2010) (in Heb)
+  highlight: 0
+  general_readership: 1  
+  
+- title: "Can brain research solve the human puzzle?"
+  image: dummy.png
+  description: 
+  authors: Marom S. 
+  link:
+    url: https://hayadan.com/brain-reaserch-and-human-quiz-0503101
+    display: Summary of Odysseus magazine article (2010)
+  highlight: 0
+  general_readership: 1  
+
+
+
+
+

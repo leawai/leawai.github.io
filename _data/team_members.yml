@@ -1,0 +1,68 @@
+- name: Shimon Marom
+  photo: ShimonMarom.jpg
+  info: Professor
+  email: marom@technion.ac.il
+  number_educ: 2
+  education1: <a href="mailto:marom@technion.ac.il">Email</a>
+  education2: <a href="https://soudry.github.io/">Homepage</a>
+
+- name: Laurie D. Cohen
+  photo: LaurieCohen.jpg
+  info: Post Doc (jointly with Columbia University)
+  email: lorush@gmail.com
+  number_educ: 1
+  education1: <a href="https://www.researchgate.net/scientific-contributions/Laurie-D-Cohen-2008327916">Homepage</a>
+  education2: 
+
+- name: Ron Teichner
+  photo: RonTeichner.jpg
+  info: Research Fellow (jointly with <a href="https://biophysics.net.technion.ac.il/">Naama Brenner</a> and <a href="https://scholar.google.com/citations?user=r3NAa9oAAAAJ&hl=en">Ron Meir</a> )
+  email: ron.teichner@ef.technion.ac.il
+  number_educ: 1
+  education1: <a href="https://www.linkedin.com/in/ron-teichner-689b96129/?originalSubdomain=il">Homepage</a>
+  education2: 
+
+
+- name: Amit Shmidov
+  photo: AmitShmidov.jpg
+  info: MSc student (mainly supervised by <a href="https://www.linkedin.com/in/danny-eytan-b9191182/?originalSubdomain=il">Danny Eytan</a>)
+  email: yc@campus.technion.ac.il
+  number_educ: 1
+  education1:  <a href="https://www.linkedin.com/in/amit-shmidov/?originalSubdomain=il">Homepage</a>
+  education2:
+  
+- name: Tamar Galateanu
+  photo: TamarGalateanu.JPG
+  info: Lab Engineer
+  email: tamar.ga@technion.ac.il
+  number_educ: 1
+  education1: <a href="mailtotamar.ga@technion.ac.il">Email</a>
+  education2: 
+
+  
+- name: Leonid Oddesky
+  photo: LeonidOddesky.jpg
+  info:  Lab Engineer
+  email: odesskyl@gmail.com
+  number_educ: 1
+  education1: <a href="mailto:odesskyl@gmail.com">Email</a>
+  education2: 
+
+- name: Yael Abuhatsera
+  photo: YaelAbuhatsera.JPG
+  info: Lab Manager
+  email: yaelabu@technion.ac.il
+  number_educ: 1
+  education1: <a href="yaelabu@technion.ac.il">Email</a>
+  education2:  
+
+
+
+   
+
+
+
+
+
+
+  
